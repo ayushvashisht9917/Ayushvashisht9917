@@ -10,8 +10,6 @@
   👋, I'm Ayush Vashishth
 ### 🚀 Data Engineer | Azure | Python | ETL | Gen AI Enthusiast
 
-<img src="https://raw.githubusercontent.com/AyushVashishth/AyushVashishth/main/banner.png" alt="Profile Banner"/>
-
 ---
 
 ## 🧑‍💻 Professional Overview
