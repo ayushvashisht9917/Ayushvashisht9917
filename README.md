@@ -36,13 +36,6 @@ My approach emphasizes reliability, performance optimization, automation, and ma
 
 ---
 
-## 🌌 Dark Neon AI Theme Divider
-<p align="center">
-  <img src="https://i.imgur.com/7W4Vj8P.gif" width="500" alt="Neon AI"/>
-</p>
-
----
-
 ## 🎓 Education
 - **M.B.A in I.T**, A.K.T.U University (2026)  
 - **Bachelors in Computers**, M.J.P.R.U University (2019)
