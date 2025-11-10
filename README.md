@@ -2,14 +2,12 @@
 
 <!-- AI THEMED PROFESSIONAL BANNER -->
 <p align="center">
-  <img src="https://i.imgur.com/3ZQ3Z4j.jpeg" alt="AI Banner" width="100%"/>
-</p>
+
 
 <!-- BLACK & GOLD MINIMAL THEME TITLE -->
 <p align="center">
-  <img src="https://i.imgur.com/8frT9iN.gif" width="280" alt="Black Gold Divider"/>
-</p>**
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="120" alt="Animated Icon" align="right"/> 👋, I'm Ayush Vashishth
+ 
+  👋, I'm Ayush Vashishth
 ### 🚀 Data Engineer | Azure | Python | ETL | Gen AI Enthusiast
 
 <img src="https://raw.githubusercontent.com/AyushVashishth/AyushVashishth/main/banner.png" alt="Profile Banner"/>
