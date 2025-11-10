@@ -60,20 +60,7 @@ My approach emphasizes reliability, performance optimization, automation, and ma
 
 ---
 
-## 🌟 GitHub Profile Animations & Stats <img src="https://media.giphy.com/media/Yl5aO3gdVfsQ0/giphy.gif" width="50" alt="Icon"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushVashishth&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushVashishth&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AyushVashishth&theme=tokyonight)
-
----
-
-## 🔥 AI-Enhanced Contribution Graph
-![AI Graph](https://raw.githubusercontent.com/akshitagupta15june/Face-X/master/Contribution%20Graph/github-contribution-grid-snake.svg)
-
----
 
 ## 📬 Connect with Me
 [(https://www.linkedin.com/in/ayush-vashishth-0649a9204/)) • [GitHub](https://github.com/AyushVashisht) • Email: **ayushvashisht9917@gmail.com**
