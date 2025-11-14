@@ -1,70 +1,55 @@
-# **Ayush Vashishth**
-
-<!-- AI THEMED PROFESSIONAL BANNER -->
-<p align="center">
-
-
-<!-- BLACK & GOLD MINIMAL THEME TITLE -->
-<p align="center">
- 
-  👋, I'm Ayush Vashishth
-### 🚀 Data Engineer | Azure | Python | ETL | Gen AI Enthusiast
+# 👋 Hi, I'm Ayush Vashishtha  
+### 🚀 Data Analytics Engineer | Analyst | Cloud & BI Enthusiast  
+📍 Noida, Uttar Pradesh, India  
 
 ---
 
-## 🧑‍💻 Professional Overview
-A results‑driven **Data Engineer** with 3+ years of experience delivering scalable, high‑performance data solutions across Azure cloud ecosystems. I specialize in designing modern data pipelines, streamlining ETL/ELT workflows, optimizing SQL queries, and building analytical solutions aligned with business strategy.
-
-I bring hands‑on expertise with enterprise tools like **Azure Data Factory, Azure Synapse, Databricks, Python, PySpark, SQL**, and **Power BI**—ensuring efficient data orchestration, quality, and reporting.
-
-My approach emphasizes reliability, performance optimization, automation, and maintaining engineering standards that make data systems production‑ready.
+## 🌟 About Me  
+I am a Data Analytics Engineer passionate about transforming raw data into meaningful insights that drive decision-making.  
+I enjoy working with analytics, SQL, cloud technologies, visualizations, and building end-to-end data solutions.
 
 ---
 
-## ⚡ Core Technical Competencies
+## 🔧 Skills & Technologies  
 
-### 🔥 Animated Skill Badges
-<p>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/Databricks-EF3B2D?style=for-the-badge&logo=databricks&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apache&logoColor=black"/>
-<img src="https://img.shields.io/badge/DevOps-0A0FFF?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-</p>
+**Programming & Analytics:**  
+- Python | R | SQL (MySQL) | Excel  
+- Pandas | NumPy | Matplotlib  
 
----
+**Data Engineering & Cloud:**  
+- AWS | Azure  
+- Data Validation | Data Cleaning | ETL Concepts  
 
-## 🎓 Education
-- **M.B.A in I.T**, A.K.T.U University (2026)  
-- **Bachelors in Computers**, M.J.P.R.U University (2019)
+**Business Intelligence:**  
+- Power BI | Data Visualization | Dashboard Development  
 
 ---
 
-## 🏅 Certification
-- **Master in Data Engineering with Gen AI**
+## 💼 Experience  
+
+### **📊 Data Analyst Intern — Top Mentor**  
+📅 *Jun 2025 – Present*  
+- Working on sales and supply chain analysis  
+- Performing data validation, trend analysis, and reporting  
+- Building dashboards and insights using Power BI, Excel, and SQL  
+
+### **👨‍💼 Technical Recruiter — Qualrec Solutions LLC**  
+📅 *Jan 2023 – Present*  
+- Sourcing IT talent, building pipelines, conducting screenings  
+- Managing end-to-end recruitment cycles for U.S. clients  
 
 ---
 
-## 💼 Professional Experience
-
-### **Data Engineer – Qualrec Solutions LLC** *(Jan 2022 – Present)*
-- Built multiple ETL pipelines using **Azure Data Factory**, **Synapse**, and **Databricks**.
-- Developed PySpark scripts to process **large-scale structured & semi-structured data**.
-- Implemented **SQL optimization** using EXPLAIN plans for improved data retrieval.
-- Designed **interactive Power BI dashboards** for business insights.
-- Automated daily workflows and integrated ADF with Synapse for seamless processing.
-- Ensured data quality with validation scripts in Python.
-- Worked in Agile environment using **JIRA** & **Azure DevOps**.
+## 🎓 Education  
+- **MBA** — Pursuing (Expected 2026)  
+- **B.Com (Computer)** — Completed in 2019  
 
 ---
 
-
-
-## 📬 Connect with Me
-[(https://www.linkedin.com/in/ayush-vashishth-0649a9204/)) • [GitHub](https://github.com/AyushVashisht) • Email: **ayushvashisht9917@gmail.com**
+## 🔗 Connect with Me  
+- **LinkedIn:** [Ayush Vashishtha](https://www.linkedin.com/in/ayush-vashishth-0649a9204/)  
+- **Email:** ayushvashisht9917@gmail.com  
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+⭐ *Thanks for visiting my profile! Feel free to check out my repositories or connect with me for collaboration.*
