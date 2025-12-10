@@ -1,8 +1,3 @@
-<!-- ======================================== -->
-<!--       AYUSH VASHISHTHA GITHUB README     -->
-<!--      FULLY WORKING - NO BROKEN IMAGES    -->
-<!-- ======================================== -->
-
 <!-- Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayushvashisht9917/ayushvashisht9917/main/A_professional_digital_graphic_resume_introduces_A.png" width="100%" />
@@ -16,12 +11,12 @@
 ---
 
 # 👨‍💻 About Me
-I am a **Data Analytics Engineer** with experience in **Python, SQL, ML, Power BI, Excel, Tableau, and Kaggle ML competitions.**
+I am a **Data Analytics Engineer** with experience in **Python, SQL, Power BI, Tableau, Machine Learning, and Excel**.
 
-I enjoy building ML models, performing EDA, cleaning data, and transforming datasets into real business insights.
+I turn raw data into clear, actionable insights.
 
 🔍 *Actively seeking:*  
-**Data Analyst | BI Analyst | ML Engineer | Data Scientist**  
+**Data Analyst | BI Analyst | ML Engineer | Data Scientist**
 
 📧 **Email:** ayushvashisht9917@gmail.com  
 🔗 **LinkedIn:** www.linkedin.com/in/ayush-vashishth-0649a9204  
@@ -30,24 +25,23 @@ I enjoy building ML models, performing EDA, cleaning data, and transforming data
 
 # 💼 Professional Experience
 
-## 🚀 **Data Analyst Intern — Access Million**  
-📅 *May 2025 – Nov 2025*
-- Performed EDA, statistical analysis & data cleaning  
-- Built **Power BI & Tableau dashboards**  
-- Extracted datasets using SQL joins, CTEs, subqueries  
-- Conducted A/B testing & automated reports (Python + Excel)  
-- Created customer segmentation using **K-Means**  
-- Delivered insights to stakeholders  
+## 🚀 Data Analyst Intern — Access Million  
+📅 May 2025 – Nov 2025  
+- Performed EDA & statistical analysis  
+- Built Power BI & Tableau dashboards  
+- SQL joins, CTEs, subqueries  
+- A/B testing, automated reporting  
+- K-Means segmentation  
 
 ---
 
-## 👨‍💼 **Senior Technical Recruiter — QualRec Solutions LLC**  
-📅 *Jan 2023 – Present*
-- Full-cycle recruitment for US IT & Non-IT roles  
-- Worked with Dice, Monster, CareerBuilder, LinkedIn  
-- Recruited for Java, Cloud, DevOps, Data Engineering, Cybersecurity  
+## 👨‍💼 Senior Technical Recruiter — QualRec Solutions LLC  
+📅 Jan 2023 – Present  
+- Full-cycle US recruitment  
+- Sourced via Dice, Monster, CareerBuilder, LinkedIn  
+- Hired for Java, DevOps, Cloud, Data Engineering, Cybersecurity  
 - Negotiated W2/C2C/1099  
-- Consistently achieved hiring targets  
+- Achieved hiring targets  
 
 ---
 
@@ -64,83 +58,48 @@ I enjoy building ML models, performing EDA, cleaning data, and transforming data
 
 # 🚀 Featured Projects
 
-## 🔹 **1. Iris Flower Classification (100% Accuracy)**  
-Logistic Regression ML model  
+### 1️⃣ Iris Flower Classification (100% Accuracy)  
 🔗 https://github.com/ayushvashisht9917/Machine-Learning-Projects  
 
----
-
-## 🔹 **2. Brightness Termination Analysis (Excel)**  
-Operational + RCA analysis  
+### 2️⃣ Brightness Termination Analysis  
 🔗 https://github.com/ayushvashisht9917/data-analytics-project---1  
 
----
-
-## 🔹 **3. Sales Dashboard & KPI Analysis**  
-Excel · Power Query  
+### 3️⃣ Sales Dashboard & KPI Analysis  
 🔗 https://github.com/ayushvashisht9917/Data-Analytics-2  
 
----
-
-## 🔹 **4. Titanic Survival Prediction (Kaggle – 0.76794)**  
-Random Forest · Feature Engineering  
+### 4️⃣ Titanic Survival Prediction (Kaggle – 0.76794)  
 🔗 https://github.com/ayushvashisht9917/titanic-ml-project  
 
----
-
-## 🔹 **5. Loan Repayment Prediction (Kaggle S5E11)**  
-LightGBM · Feature Engineering  
+### 5️⃣ Loan Repayment Prediction (Kaggle S5E11)  
 🔗 https://github.com/ayushvashisht9917/Loan_Prediction_Payback  
 
----
-
-## 🔹 **6. Iris Species Classification (Advanced – 99% Accuracy)**  
-GridSearchCV · SHAP · PCA  
+### 6️⃣ Iris Species Classification (99% Accuracy)  
 🔗 https://github.com/ayushvashisht9917/Iris_Species  
 
----
-
-## 🔹 **7. NFL Big Data Bowl 2026 (Player Movement)**  
-GradientBoostingRegressor  
+### 7️⃣ NFL Big Data Bowl 2026  
 🔗 https://github.com/ayushvashisht9917/NFL-Big-Data-Bowl-2026  
 
----
-
-## 🔹 **8. Diabetes Prediction (Kaggle S5E12)**  
-Stacked LightGBM + XGBoost model  
+### 8️⃣ Diabetes Prediction (Kaggle S5E12)  
 🔗 https://github.com/ayushvashisht9917/kaggle-diabetes-prediction  
 
 ---
 
-# 📊 GitHub Stats (100% Stable - Never Break)
+# 📊 GitHub Analytics (Never Breaks)
 
-### 🔥 Streak Stats (Permanent Working Mirror)
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushvashisht9917&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 📈 GitHub Stats (Safe Mirror)
-<p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=ayushvashisht9917&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-### 🧪 Top Languages (Safe Mirror)
-<p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=ayushvashisht9917&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://img.shields.io/badge/GitHub_Streak-Active-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub_Stats-Available-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Top_Languages-Tracked-black?style=for-the-badge&logo=python" />
 </p>
 
 ---
 
 # 🏆 Achievements
-- Kaggle ML Submissions  
-- Built E2E ML pipelines  
-- Created KPI dashboards  
-- Strong analytics + recruitment background  
-- Passionate about data science & machine learning  
+- Full ML pipelines  
+- Excel dashboards  
+- Kaggle submissions  
+- Power BI dashboards  
+- Strong analytics + technical recruitment experience  
 
 ---
 
