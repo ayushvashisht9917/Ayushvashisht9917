@@ -1,93 +1,113 @@
-<!-- Banner / Animation -->
+<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Vashishtha;Data+Analytics+Engineer+%7C+Python+%7C+SQL+%7C+Machine+Learning;Transforming+Data+Into+Insights+%26+Impact;Welcome+To+My+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23E3FDFD&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Ayush+Vashishtha;Data+Analytics+Engineer;Python+%7C+SQL+%7C+Machine+Learning+%7C+Power+BI+%7C+Excel;Transforming+Data+Into+Insights;Welcome+To+My+GitHub+Profile!" />
 </p>
 
----
-
-<!-- Dark Theme Background -->
+<!-- Black Animated Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/qEXdL1Z.gif" width="100%" />
+  <img src="https://i.imgur.com/2x4FZ47.gif" width="100%" />
 </p>
 
 ---
 
 # 👨‍💻 **About Me**
-I am a **Data Analytics Engineer** passionate about solving real-world business problems using **Python, SQL, Excel, Machine Learning, Power BI**, and **Advanced Analytics**.
+I am a **Data Analytics Engineer** with strong hands-on experience in **Python, SQL, Machine Learning, Power BI, Tableau, Excel, and Kaggle ML competitions**.
 
-🎯 I specialize in:  
-- Data Cleaning & EDA  
-- Predictive Modeling & Machine Learning  
-- BI Dashboarding (Power BI & Tableau)  
-- Kaggle ML Competitions  
-- Excel Automations & Advanced Analytics  
+I love working with data, identifying patterns, building predictive models, and converting raw information into business insights.
 
-🌱 Currently exploring: **Advanced ML Pipelines · Explainable AI · Model Optimization**
+🔍 *Actively seeking roles:*  
+**Data Analyst | Machine Learning Engineer | BI Analyst | Data Scientist**
 
-📫 **Email:** ayushvashisht9917@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/ayush-vashishth-0649a9204  
-🧠 **Open to:** Data Analyst · ML Engineer · BI Analyst · Data Scientist roles  
+📧 **Email:** ayushvashisht9917@gmail.com  
+🔗 **LinkedIn:** www.linkedin.com/in/ayush-vashishth-0649a9204  
+
+---
+
+# 💼 **Professional Experience**
+
+## **🚀 Data Analyst Intern — Access Million**  
+**May 2025 – Nov 2025**
+- Cleaned, transformed, and analyzed marketing datasets using Python, SQL, and Excel  
+- Performed EDA to uncover trends & customer behaviour  
+- Built **Power BI & Tableau dashboards** for KPI visualization  
+- Extracted & joined large datasets using SQL JOINs, CTEs & subqueries  
+- Conducted **A/B testing** for marketing optimization  
+- Automated reports using **Python scripts + Excel Macros**  
+- Created **customer segmentation models** using K-Means  
+- Delivered insights to cross-functional teams  
+
+---
+
+## **👨‍💼 Senior Technical Recruiter — QualRec Solutions LLC**  
+**Jan 2023 – Present**
+- Managed end-to-end IT/Non-IT US recruitment  
+- Screened candidates for technical, cultural, and communication fit  
+- Worked with job boards: Dice, Monster, CareerBuilder, Indeed, LinkedIn  
+- Hired for roles: Java Devs, Cloud Engineers, Data Engineers, DevOps, Cybersecurity  
+- Negotiated rates (W2, C2C, 1099) & maintained compliance  
+- Consistently achieved monthly hiring targets  
+- Delivered US-market insights (rates, talent trends, niche skill availability)  
 
 ---
 
 # 🧰 **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,sklearn,pandas,numpy,matplotlib,seaborn,git,github,vscode,mysql,powershell" />
+  <img src="https://skillicons.dev/icons?i=python,anaconda,jupyter,sklearn,pandas,numpy,matplotlib,seaborn,git,github,mysql,vscode" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,tableau,aws,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=excel,tableau,powerbi,aws,googlecloud" />
 </p>
 
 ---
 
-# 🚀 **Featured Projects (With Live Repo Links)**
+# 🚀 **Featured Projects**
 
-## 🔹 **1️⃣ Iris Flower Classification (100% Accuracy)**
-Simple, fast ML model using Logistic Regression & clean EDA workflow.  
-🔗 Repo: **https://github.com/ayushvashisht9917/Machine-Learning-Projects**
-
----
-
-## 🔹 **2️⃣ Brightness Termination Analysis (Excel Project)**
-EDA + root cause analysis for operational failure prediction.  
-🔗 Repo: **https://github.com/ayushvashisht9917/data-analytics-project---1**
+### 🔹 **1️⃣ Iris Flower Classification (100% Accuracy)**
+Simple ML project using Logistic Regression.  
+🔗 https://github.com/ayushvashisht9917/Machine-Learning-Projects  
 
 ---
 
-## 🔹 **3️⃣ Sales Analysis – Trends, Revenue, KPIs**
-Cleaned data, dashboards, business insights, and seasonal patterns.  
-🔗 Repo: **https://github.com/ayushvashisht9917/Data-Analytics-2**
+### 🔹 **2️⃣ Brightness Termination Analysis (Excel Project)**
+Operational analytics + root cause analysis.  
+🔗 https://github.com/ayushvashisht9917/data-analytics-project---1  
 
 ---
 
-## 🔹 **4️⃣ Titanic Survival Prediction – Kaggle ML (Score: 0.76794)**
-Random Forest | Feature Engineering | Kaggle Submission  
-🔗 Repo: **https://github.com/ayushvashisht9917/titanic-ml-project**
+### 🔹 **3️⃣ Sales Data Analysis – Trends, KPIs, Revenue Insights**
+Business analytics with Excel & Power Query.  
+🔗 https://github.com/ayushvashisht9917/Data-Analytics-2  
 
 ---
 
-## 🔹 **5️⃣ Loan Repayment Prediction – Kaggle S5E11**
-LightGBM + Feature Engineering + CV  
-🔗 Repo: **https://github.com/ayushvashisht9917/Loan_Prediction_Payback**
+### 🔹 **4️⃣ Titanic Survival Prediction — Kaggle (Score: 0.76794)**
+EDA → Feature Engineering → Random Forest → Kaggle Submission  
+🔗 https://github.com/ayushvashisht9917/titanic-ml-project  
 
 ---
 
-## 🔹 **6️⃣ Iris Species (Advanced ML Pipeline – 99% Accuracy)**
-GridSearchCV · SHAP · PCA · Multi-model comparison  
-🔗 Repo: **https://github.com/ayushvashisht9917/Iris_Species**
+### 🔹 **5️⃣ Loan Repayment Prediction — Kaggle S5E11**
+LightGBM · CV · Submission-ready model  
+🔗 https://github.com/ayushvashisht9917/Loan_Prediction_Payback  
 
 ---
 
-## 🔹 **7️⃣ NFL Big Data Bowl 2026 – Player Coordinate Prediction**
-GradientBoostingRegressor | RMSE: x≈3.998, y≈3.713  
-🔗 Repo: **https://github.com/ayushvashisht9917/NFL-Big-Data-Bowl-2026**
+### 🔹 **6️⃣ Iris Species Classification (Advanced Pipeline: 99%)**
+GridSearchCV · SHAP · PCA Visualization  
+🔗 https://github.com/ayushvashisht9917/Iris_Species  
 
 ---
 
-## 🔹 **8️⃣ Diabetes Prediction – Kaggle S5E12**
-Stacked model (LightGBM + XGBoost) optimized for AUC  
-🔗 Repo: **https://github.com/ayushvashisht9917/kaggle-diabetes-prediction**
+### 🔹 **7️⃣ NFL Big Data Bowl 2026 — Player Movement Prediction**
+GradientBoostingRegressor · RMSE optimized  
+🔗 https://github.com/ayushvashisht9917/NFL-Big-Data-Bowl-2026  
+
+---
+
+### 🔹 **8️⃣ Diabetes Prediction — Kaggle S5E12**
+LightGBM + XGBoost stacked model  
+🔗 https://github.com/ayushvashisht9917/kaggle-diabetes-prediction  
 
 ---
 
@@ -100,25 +120,25 @@ Stacked model (LightGBM + XGBoost) optimized for AUC
 
 ## 🧪 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushvashisht9917&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushvashisht9917&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushvashisht9917&show_icons=true&theme=tokyonight&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushvashisht9917&layout=compact&theme=tokyonight" height="160" />
 </p>
 
 ---
 
 # 🏆 **Achievements**
 ✔ Kaggle ML Submissions  
-✔ Built complete ML workflows & analytics dashboards  
-✔ Delivered EDA, feature engineering & model interpretation tools  
-✔ Strong background in Excel analytics and KPI reporting  
+✔ Built full ML pipelines & dashboards  
+✔ Delivered high-value EDA & insights  
+✔ Strong analytics + recruitment background  
 
 ---
 
 # 🖤 **Animated Footer**
 <p align="center">
-  <img src="https://i.imgur.com/waxVImv.png" width="100%">
+  <img src="https://i.imgur.com/LyHic3i.gif" width="100%">
 </p>
 
 <p align="center">
-  <b>⭐ If you like my work, consider starring my repositories!</b>
+  ⭐ <b>If you like my work, please star my repositories!</b> ⭐
 </p>
