@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushvashisht9917/ayushvashisht9917/main/A_professional_digital_graphic_resume_introduces_A.png" width="100%" />
-</p>
-
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Ayush+Vashishtha;Data+Analytics+Engineer;Python+%7C+SQL+%7C+Machine+Learning+%7C+Power+BI;Turning+Data+Into+Insights;Welcome+To+My+GitHub!" />
